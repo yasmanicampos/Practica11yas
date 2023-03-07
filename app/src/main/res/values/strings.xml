@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="saludo">Hola alumnos</string>
+    <string name="login">ingresar</string>
+    <string name="hint_name">usuario</string>
+    <string name="pass">contraseña</string>
+    <string name="button">entrar</string>
+
+
+</resources>
